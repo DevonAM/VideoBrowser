@@ -5,7 +5,7 @@ const VideoDetail = ({ video }) => {
     return (
       <div>
         <div class="ui active inverted dimmer" style={{ marginTop: "2em" }}>
-          <div class="ui text loader">Loading...</div>
+          <div class="ui huge text loader">Loading...</div>
         </div>
       </div>
     );
