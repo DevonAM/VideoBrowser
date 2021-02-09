@@ -2,7 +2,13 @@ import React from "react";
 
 const VideoDetail = ({ video }) => {
   if (!video) {
-    return <div>Loading...</div>;
+    return (
+      <div>
+        <div class="ui active inverted dimmer" style={{ marginTop: "2em" }}>
+          <div class="ui text loader">Loading...</div>
+        </div>
+      </div>
+    );
   }
 
   const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}`;
