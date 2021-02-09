@@ -14,8 +14,8 @@ A basic React based video browsing application.
 * Conditional rendering
 * Lifecycle methods
 
-![ScreenShot](https://github.com/DevonAM/VideoBrowser/blob/section/11/youtube-clone/src/assets/Screen%20Shot%202021-02-09%20at%203.48.59%20PM.png)
-![ScreenShot](https://github.com/DevonAM/VideoBrowser/blob/section/11/youtube-clone/src/assets/Screen%20Shot%202021-02-09%20at%203.47.48%20PM.png)
+![ScreenShot](https://github.com/DevonAM/VideoBrowser/blob/master/src/assets/Screen%20Shot%202021-02-09%20at%203.48.59%20PM.png)
+![ScreenShot](https://github.com/DevonAM/VideoBrowser/blob/master/src/assets/Screen%20Shot%202021-02-09%20at%203.47.48%20PM.png)
 
 
 
